@@ -18,5 +18,5 @@ class SendToAunt():
             print(line)
             time.sleep(1)
 
-messageObject=SendToAunt("sns.txt","+27793044025")
+messageObject=SendToAunt("sns.txt","+2779XXXXXXX")
 messageObject.openFileAndSend()
